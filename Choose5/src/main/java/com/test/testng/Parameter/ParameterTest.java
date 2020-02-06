@@ -1,4 +1,4 @@
-package com.test.testng.Suite;
+package com.test.testng.Parameter;
 
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
